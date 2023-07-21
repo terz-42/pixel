@@ -174,3 +174,17 @@ file = "ICEmitberg.png"
 startx = 2
 starty = -406
 priority = 127
+
+[[structure]]
+name = "taiwantrain"
+file = "taiwantrain.png"
+startx = -223
+starty = -385
+priority = 127
+
+[[structure]]
+name = "czechtrain"
+file = "czechtrain.png"
+startx = -53
+starty = -383
+priority = 127
