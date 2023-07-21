@@ -154,16 +154,23 @@ startx = 9
 starty = -449
 priority = 127
 
-# [[structure]]
-# name = "train"
-# file = "train.png"
-# startx = 412
-# starty = -386
-# priority = 127
+[[structure]]
+name = "trainNL"
+file = "trainNL.png"
+startx = 412
+starty = -386
+priority = 127
 
 [[structure]]
 name = "canada"
 file = "canada.png"
 startx = 90
 starty = 165
+priority = 127
+
+[[structure]]
+name = "ICEmitberg"
+file = "ICEmitberg.png"
+startx = 2
+starty = -406
 priority = 127
