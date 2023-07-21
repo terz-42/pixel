@@ -188,3 +188,10 @@ file = "czechtrain.png"
 startx = -53
 starty = -383
 priority = 127
+
+[[structure]]
+name = "SBB"
+file = "SBB.png"
+startx = 251
+starty = -406
+priority = 127
